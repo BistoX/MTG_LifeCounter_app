@@ -1,0 +1,3 @@
+include ':SimpleFingerGestures'
+include ':app'
+rootProject.name = "HealthMTG"

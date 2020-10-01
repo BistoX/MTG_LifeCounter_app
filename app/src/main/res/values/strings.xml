@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HealthMTG</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_send">Send</string>
+    <string name="_20">20</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+</resources>
